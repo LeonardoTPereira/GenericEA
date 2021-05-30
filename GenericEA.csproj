@@ -63,7 +63,6 @@
     <Compile Include="EA\Individual.cs" />
     <Compile Include="EA\Population.cs" />
     <Compile Include="EA\Strategies\BLXAlphaCrossover.cs" />
-    <Compile Include="EA\Strategies\StrategiesDictionary.cs" />
     <Compile Include="EA\Strategies\CrossoverStrategyInterface.cs" />
     <Compile Include="EA\Strategies\GenerationLimitStopCriteriaStrategy.cs" />
     <Compile Include="EA\Strategies\MutationStrategyInterface.cs" />
